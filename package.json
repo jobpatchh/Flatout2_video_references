@@ -1,0 +1,21 @@
+{
+  "name": "by.flatout.references",
+  "version": "1.0.0",
+  "displayName": "Flatout 2 references mini games",
+  "description": "Flatout 2 references mini games",
+  "unity": "2021.1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "3d",
+    "video",
+	"references"
+  ],
+  "author": {
+    "name": "jobpatchh",
+    "email": "user@noreply.com",
+    "url": "https://github.com/jobpatchh"
+  },
+  "type": "video"
+}
